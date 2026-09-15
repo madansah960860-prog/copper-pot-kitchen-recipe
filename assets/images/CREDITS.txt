@@ -1,0 +1,114 @@
+IMAGE CREDITS  -  Copper Pot Kitchen
+====================================
+All photographs below were downloaded from Pexels and are used under the Pexels
+License (free for commercial and non-commercial use, attribution not required;
+photographers are named as a courtesy). Each file was resized and re-compressed
+locally. Nothing on this site is hotlinked from a remote server.
+The SVG mark, the favicon and the timing bars on each recipe are drawn in code
+rather than photographed.
+
+hero/hero-kitchen.jpg
+    source      : https://www.pexels.com/photo/interior-of-old-fashioned-kitchen-10397022/
+    direct file : https://images.pexels.com/photos/10397022/pexels-photo-10397022.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1800x1012   size: 177KB
+
+recipes/beef-shin-ragu.jpg
+    source      : https://www.pexels.com/photo/a-baked-dish-in-a-pot-16699417/
+    direct file : https://images.pexels.com/photos/16699417/pexels-photo-16699417.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x667   size: 178KB
+
+recipes/chicken-stock.jpg
+    source      : https://www.pexels.com/photo/hearty-homemade-broth-in-rustic-kitchen-setting-39408392/
+    direct file : https://images.pexels.com/photos/39408392/pexels-photo-39408392.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x667   size: 94KB
+
+recipes/coq-au-vin.jpg
+    source      : https://www.pexels.com/photo/cooked-meat-in-black-pan-14146060/
+    direct file : https://images.pexels.com/photos/14146060/pexels-photo-14146060.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x667   size: 108KB
+
+recipes/lamb-rogan-josh.jpg
+    source      : https://www.pexels.com/photo/delicious-lamb-curry-in-decorative-bowl-37309226/
+    direct file : https://images.pexels.com/photos/37309226/pexels-photo-37309226.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x667   size: 149KB
+
+recipes/onion-soup.jpg
+    source      : https://www.pexels.com/photo/delicious-homemade-french-onion-soup-in-black-bowls-34583386/
+    direct file : https://images.pexels.com/photos/34583386/pexels-photo-34583386.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x667   size: 117KB
+
+recipes/braised-red-cabbage.jpg
+    source      : https://www.pexels.com/photo/close-up-of-a-meat-dish-with-potato-puree-and-red-cabbage-7474077/
+    direct file : https://images.pexels.com/photos/7474077/pexels-photo-7474077.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1000x667   size: 118KB
+
+steps/step-onions.jpg
+    source      : https://www.pexels.com/photo/close-up-shot-of-white-onions-4163410/
+    direct file : https://images.pexels.com/photos/4163410/pexels-photo-4163410.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 89KB
+
+steps/step-red-cabbage.jpg
+    source      : https://www.pexels.com/photo/red-cabbages-in-close-up-photography-7543203/
+    direct file : https://images.pexels.com/photos/7543203/pexels-photo-7543203.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 101KB
+
+steps/step-simmering-pot.jpg
+    source      : https://www.pexels.com/photo/soup-dish-in-a-cooking-pot-12381137/
+    direct file : https://images.pexels.com/photos/12381137/pexels-photo-12381137.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 86KB
+
+steps/step-browning-meat.jpg
+    source      : https://www.pexels.com/photo/cook-cooking-a-piece-of-meat-in-a-pot-20258781/
+    direct file : https://images.pexels.com/photos/20258781/pexels-photo-20258781.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 51KB
+
+steps/step-bread-and-onions.jpg
+    source      : https://www.pexels.com/photo/rustic-still-life-with-bread-and-onions-37848844/
+    direct file : https://images.pexels.com/photos/37848844/pexels-photo-37848844.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 66KB
+
+steps/copper-pans.jpg
+    source      : https://www.pexels.com/photo/old-fashioned-copper-baking-pans-hanging-on-wall-in-kitchen-10397050/
+    direct file : https://images.pexels.com/photos/10397050/pexels-photo-10397050.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 900x600   size: 70KB
+
+author/author-gil-mercer.jpg
+    source      : https://www.pexels.com/photo/close-up-shot-of-a-bearded-man-5368570/
+    direct file : https://images.pexels.com/photos/5368570/pexels-photo-5368570.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 560x700   size: 63KB
+
+og/og-copper-pot-kitchen.jpg
+    source      : https://www.pexels.com/photo/person-holding-orange-pot-with-cooked-food-7239431/
+    direct file : https://images.pexels.com/photos/7239431/pexels-photo-7239431.jpeg?auto=compress&cs=tinysrgb&w=2400
+    photographer: Pexels contributor
+    license     : Pexels License - free to use, no attribution required
+    dimensions  : 1200x630   size: 113KB
+
